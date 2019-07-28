@@ -2,7 +2,7 @@
 
 ### 참가자
 
-| 김해린 | 임승연 | 하주연 | 황유진 |
+| [김해린](https://github.com/lini1634) | [임승연](https://github.com/9elephant8) | [하주연](https://github.com/jujuling) | [황유진](https://github.com/hyj378) |
 |:------:|:------:|:------:|:------:|
 
 
